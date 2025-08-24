@@ -32,3 +32,4 @@ A Python script that generates tweets using a prompt template and the Google Gem
 ## Demo 
 
 [Run Google Colab Notebook](https://colab.research.google.com/drive/1N8XuYgMx-cQlfHGhoVgFh2vjpXYEBxfy?usp=sharing)
+
