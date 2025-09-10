@@ -1,6 +1,4 @@
-# Q4: Structured Output
-
-This repository contains the solution for Question 4 of the assignment.
+# Structuring and validating LLM Output
 
 ## Description
 
@@ -10,8 +8,8 @@ A Python script that generates tweets using a prompt template and the Google Gem
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/HarshRajj/intern-2025-q4.git
-    cd intern-2025-q4
+    git clone https://github.com/HarshRajj/04-structuring-validating-output.git
+    cd 04-structuring-validating-output
     ```
 
 2.  **Install dependencies:**
